@@ -1,4 +1,4 @@
 num1 = 5
-num2 = 8
+num2 = 10.5
 sum = num1+num2
-print(sum)
+print(int(sum))
